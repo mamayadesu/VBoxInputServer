@@ -14,6 +14,9 @@ This application ensures the transfer of commands and key combinations from the 
 3. Run application: `php VBoxInputServer.phar`
 4. Open phpVirtualBox in web browser, open any running VM and check input.
 
+## Compilation
+Requires xRefCore Framework: https://www.xrefcore.ru
+
 ## Requirements:
 * PHP 7.4 or higher
 * Free 18084 port on 127.0.0.1
